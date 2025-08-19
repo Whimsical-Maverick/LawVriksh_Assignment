@@ -1,0 +1,81 @@
+{
+  "results": [
+    {
+      "sentiment": {
+        "positive": 0.162,
+        "neutral": 0.838,
+        "negative": 0.0
+      },
+      "topics": [
+        "agentic",
+        "agentic workflows",
+        "connecting",
+        "connecting nodes",
+        "helps"
+      ],
+      "suggested_keywords": [
+        "agentic",
+        "agentic workflows",
+        "connecting",
+        "connecting nodes",
+        "helps"
+      ],
+      "readability": 89.08,
+      "token_usage": {
+        "prompt": 18,
+        "completion": 0,
+        "total": 18
+      }
+    },
+    {
+      "sentiment": {
+        "positive": 0.224,
+        "neutral": 0.776,
+        "negative": 0.0
+      },
+      "topics": [
+        "agentic",
+        "agentic workflows",
+        "connecting",
+        "connecting nodes",
+        "helps"
+      ],
+      "suggested_keywords": [
+        "agentic",
+        "agentic workflows",
+        "connecting",
+        "connecting nodes",
+        "helps"
+      ],
+      "readability": 27.49,
+      "token_usage": {
+        "prompt": 14,
+        "completion": 0,
+        "total": 14
+      }
+    }
+  ],
+  "corpus_summary": {
+    "top_topics": [
+      "agentic",
+      "agentic workflows",
+      "connecting",
+      "connecting nodes",
+      "helps",
+      "helps orchestrate",
+      "langgraph",
+      "langgraph helps"
+    ],
+    "common_keywords": [
+      "agentic",
+      "agentic workflows",
+      "connecting",
+      "connecting nodes",
+      "helps",
+      "helps orchestrate",
+      "langgraph",
+      "langgraph helps"
+    ]
+  }
+}
+
